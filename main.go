@@ -12,6 +12,3 @@ func main() {
 
 }
 
-func ui(){
-	
-}
