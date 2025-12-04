@@ -12,3 +12,8 @@ func main() {
 
 }
 
+
+
+func ui()  {
+	fmt.Println("this ui")
+}
