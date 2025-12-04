@@ -13,5 +13,5 @@ func main() {
 }
 
 func ui(){
-	
+	fmt.Println("helo")
 }
